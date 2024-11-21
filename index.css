@@ -20,6 +20,7 @@ body{
     font-size: 20   px;
     color: white;
     font-weight: bold;
+    flex-wrap: wrap;
     
 }
 .menu
