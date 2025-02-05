@@ -1,7 +1,10 @@
 
 .logo{
     display: flex;
-    justify-content: space-around;     
+    justify-content: space-around;    
+    margin-top: 20px; 
+    margin-left: 30px;
+   
 }
 a{
     color: black;
@@ -17,19 +20,22 @@ a:hover{
 body{
     font-family: "Agdasima";
     background-color: gray;
-    font-size: 20   px;
+    font-size: 20px;
     color: white;
     font-weight: bold;
-    flex-wrap: wrap;
+    background-image: url(sport-car-with-black-white-autotuning-driving-forest.jpg);
+    background-size: cover;
+    
     
 }
 .menu
 {
     display: flex;
-    margin-right: 650px;
-    font-size: 22px;
+    font-size: 27px;
     background-color: white;
-    width: 100%;
+    margin-top: 27px;
+    margin-left: 970px;
+    
 }
 
 header{
@@ -38,11 +44,16 @@ header{
     background-color: white; 
     margin-top: -40px;
 }
+h1{
+    font-size: 50px;
+}
 
 
  h2{
-     font-size: 37px; 
+     
      margin-bottom: 13px;
+     margin-top: 20px;
+     font-size: 50px;
      
     }
  *{
@@ -55,6 +66,7 @@ header{
    
     justify-content: center;
     font-size: 23px;
+    margin-top: 80px;
 
 }
 #ciudad{        
@@ -106,4 +118,6 @@ button {
 }
 .titulo{
     margin-bottom: 40px;
+    margin-top: 40px;
 }
+
