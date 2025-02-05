@@ -1,0 +1,17 @@
+.menu{
+    text-align: center;
+    margin-top: 320px;
+    background-color: white;
+    padding: 40px;
+    font-size: 22px;
+
+}
+
+body{
+    background-color: gray;
+}
+
+
+*{
+    margin: 0;
+}

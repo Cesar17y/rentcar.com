@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray; 
+    background-image: url(yellow-sport-coupe-road-sunset.jpg);
+    background-size: cover;
+}
+
+ 
+ .texto{
+    
+    font-weight: bold;
+    padding: 20px;
+    font-size: 25px;
+    color: rgb(24, 24, 72)
+ }
+ 
+header{
+    background-color: white;
+    align-items: center;
+    display: flex;
+}
+
+.historia{
+    
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 400px;
+   
+
+}
+.logo{
+    justify-content: space-around;
+    margin-top: -20px;
+    
+}

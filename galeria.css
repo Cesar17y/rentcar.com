@@ -1,0 +1,28 @@
+.car{
+    filter: drop-shadow(
+        0 0 10px rgba(30, 29, 29, 0.8)
+    );
+}
+.corolla{
+    filter: drop-shadow(
+        0 0 10px rgba(30, 29, 29, 0.8)
+    );
+}
+.sport{
+    filter: drop-shadow(
+        0 0 10px rgba(30, 29, 29, 0.8)
+    );
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.suv{
+    filter: drop-shadow(
+        0 0 10px rgba(30, 29, 29, 0.8)
+    );
+}
+.filtro{
+    display: none ;
+}
